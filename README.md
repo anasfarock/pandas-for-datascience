@@ -1,1 +1,1 @@
-# pandas-for-datascience
+# Paracticing Pandas Library for Data Science
